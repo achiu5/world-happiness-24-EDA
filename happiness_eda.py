@@ -4,5 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings as wr
 
+#create data frame with csv
 happy_df = pd.read_csv("rank.csv")
 print(happy_df.head())
+
