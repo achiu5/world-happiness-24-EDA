@@ -1,4 +1,4 @@
-Country name,Rank Young,Rank Lower Mid,Rank Upper Mid ,Rank Old,Ladder score
+Country_name,rank_young,rank_lower_mid,rank_upper_mid ,rank_old,ladder_score
 Finland,7,1,1,2,7.741
 Denmark,5,3,4,1,7.583
 Iceland,4,4,2,5,7.525
