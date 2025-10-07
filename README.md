@@ -1,4 +1,4 @@
-# World Happiness Explored Through Ages
+# World Happiness Explored Through Age
 An exploratory data analysis project on the world happiness in 2024. 
 
 ## Introduction
@@ -13,6 +13,7 @@ After taking my human happiness class my sophomore year, I became curious about 
 
 
 ### Imperfect Data
+The data that is currently being used has discrepencies due to the fact that I don't have access to the raw data for the happiness scores for the different age groups across the countries. However, we are still able to make estimates. 
 
 ## Conclusion
 
