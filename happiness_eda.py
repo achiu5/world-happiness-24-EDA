@@ -9,4 +9,4 @@ happy_df = pd.read_csv("rank.csv")
 print(happy_df.head())
 
 #measuring the happiness gap between the old and the young
-rank_gap = happy_df[rank_young] - happy_df[rank_old]
+rank_gap = happy_df['rank_young'] - happy_df['rank_old']
